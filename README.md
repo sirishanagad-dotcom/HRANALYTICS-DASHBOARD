@@ -44,6 +44,7 @@ cd hr-analytics-dashboard
 pip install -r requirements.txt
 3️⃣ Run the Dashboard
 streamlit run app.py
+
 🌐 Live Demo
 
 👉 https://hranalytics-dashboard-reports.streamlit.app/
