@@ -46,7 +46,7 @@ pip install -r requirements.txt
 streamlit run app.py
 🌐 Live Demo
 
-👉 Add your deployed Streamlit link here
+👉 https://hranalytics-dashboard-reports.streamlit.app/
 
 📌 Future Improvements
 Add predictive analytics (attrition prediction)
