@@ -38,7 +38,7 @@ Performance tracking charts
 Filter options for dynamic analysis
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/hr-analytics-dashboard.git
+git clone https://github.com/sirishanagad-dotcom/hr-analytics-dashboard.git   
 cd hr-analytics-dashboard
 2️⃣ Install Required Libraries
 pip install -r requirements.txt
